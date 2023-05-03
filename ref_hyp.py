@@ -27,7 +27,7 @@ df["text"] = [  "The cat sat on the mat.",    \
                 "They will be arriving at the airport in a few hours.",    \
                 "He was walking his dog when he saw his neighbor.",    \
                 "We should go to bed early so we can wake up refreshed.",    \
-                "The cat, which was black and white, was chasing a mouse.",   \
+                "The white cat was chasing a mouse.",   \
                 "She drove to work even though it was raining heavily.",    \
                 "They are trying to save money for their vacation.",    \
                 "He listened carefully to the instructions before beginning.",    \
