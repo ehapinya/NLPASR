@@ -1,6 +1,6 @@
 import pandas as pd
 
-data = [['000'+str(i), 'en', 'en/1.wav',16000] for i in range(1,31)]
+data = [['000'+str(i), 'en', 'en/'+str(i)+'.wav',48000] for i in range(1,31)]
 cols = ['id', 'lang', 'path', 'sr']
 df = pd.DataFrame(data, columns=cols)
 df["text"] = [  "The cat sat on the mat.",    \
